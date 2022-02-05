@@ -22,27 +22,221 @@ Students will write three 7-page papers. For the third paper, students choose an
 Grading
 -------
 
-| ACTIVITY | PERCENTAGE |
-| --- | --- |
-| Paper 1 | 25% |
-| Paper 2 | 25% |
-| Paper 3 and Presentation | 25% |
-| In-class Participation | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3 and Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Medieval & Renaissance Cosmology, Clockwork, Cross-Cultural Connections | &nbsp; |
-| 3 | The Industrial Revolution and Calculating Engines: Analytics of Capital and Gender Difference in the Work of Charles Babbage and Ada Lovelace | &nbsp; |
-| 4 | World War Two and the Cold War: Cybernetics, Communication, and Control | &nbsp; |
-| 5 | Artificial Intelligence, Artificial Life, Cognition, Gender | Paper 1 due |
-| 6 | Computing and Proof | Guest lecture: Stephanie Dick, Harvard University History of Science |
-| 7 | Computing Countercultures: Early PCs, Hacking, Opensources, Wikiworlds | &nbsp; |
-| 8 | Computer Graphics and Simulation | Guest lecture: Alma Steingart  {{< br >}}Paper 2 due |
-| 9 | Social Networks, Media, and Gaming | &nbsp; |
-| 10 | Materialities of Networks and Wireless Connections | &nbsp; |
-| 11 | Robots, DNA Computing, Quantum Computing, Beyond | &nbsp; |
-| 12 | Class Conference | Paper 3 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Medieval & Renaissance Cosmology, Clockwork, Cross-Cultural Connections
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Industrial Revolution and Calculating Engines: Analytics of Capital and Gender Difference in the Work of Charles Babbage and Ada Lovelace
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+World War Two and the Cold War: Cybernetics, Communication, and Control
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Artificial Intelligence, Artificial Life, Cognition, Gender
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Computing and Proof
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Stephanie Dick, Harvard University History of Science
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Computing Countercultures: Early PCs, Hacking, Opensources, Wikiworlds
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Computer Graphics and Simulation
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Alma Steingart  
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Social Networks, Media, and Gaming
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Materialities of Networks and Wireless Connections
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Robots, DNA Computing, Quantum Computing, Beyond
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Class Conference
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
