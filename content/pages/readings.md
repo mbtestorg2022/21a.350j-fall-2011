@@ -326,7 +326,7 @@ Total: 126 pages
 
 Helmreich, Stefan. "[Artificial Life, Inc.: Darwin and Commodity Fetishism from Santa Fe to Silicon Valley](http://dx.doi.org/10.1080/09505430120093595)." _Science as Culture_ 10, no. 4 (2001): 483–504.
 
-Sundaram, Ravi. Recycling Modernity: Pirate Electronic Cultures in India. 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.tandfonline.com/doi/pdf/10.1080/09528829908576796))
+Sundaram, Ravi. Recycling Modernity: Pirate Electronic Cultures in India. 2001. ([PDF](https://www.tandfonline.com/doi/pdf/10.1080/09528829908576796))
 
 
 {{< tdclose >}}
